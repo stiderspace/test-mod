@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Test",
+  "name": "test mod",
+  "description": "just a mod to learn modding",
+  "version": "0.0.1",
+  "url": "http//github.com/stiderspace/test-mod",
+  "updateUrl": "",
+  "authorList": [
+    "stiderspace"
+    ],
+  "credits": "stiderspace",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
